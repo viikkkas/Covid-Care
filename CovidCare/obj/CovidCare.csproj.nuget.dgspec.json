@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\VS studio repo\\CovidCare\\CovidCare\\CovidCare.csproj": {}
+    "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\CovidCare.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\VS studio repo\\CovidCare\\CovidCare\\CovidCare.csproj": {
+    "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\CovidCare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\VS studio repo\\CovidCare\\CovidCare\\CovidCare.csproj",
+        "projectUniqueName": "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\CovidCare.csproj",
         "projectName": "CovidCare",
-        "projectPath": "D:\\Documents\\VS studio repo\\CovidCare\\CovidCare\\CovidCare.csproj",
-        "packagesPath": "C:\\Users\\Vikas\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\VS studio repo\\CovidCare\\CovidCare\\obj\\",
+        "projectPath": "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\CovidCare.csproj",
+        "packagesPath": "C:\\Users\\Sunil Kumar\\.nuget\\packages\\",
+        "outputPath": "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sunil Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +42,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
