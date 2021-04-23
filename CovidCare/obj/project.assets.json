@@ -8590,23 +8590,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sunil Kumar\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\saikr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\CovidCare.csproj",
+      "projectUniqueName": "F:\\CTS\\Covid\\Covid-Care\\CovidCare\\CovidCare.csproj",
       "projectName": "CovidCare",
-      "projectPath": "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\CovidCare.csproj",
-      "packagesPath": "C:\\Users\\Sunil Kumar\\.nuget\\packages\\",
-      "outputPath": "F:\\Cognizant C Learn\\Mini project\\Covid-Care\\CovidCare\\obj\\",
+      "projectPath": "F:\\CTS\\Covid\\Covid-Care\\CovidCare\\CovidCare.csproj",
+      "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
+      "outputPath": "F:\\CTS\\Covid\\Covid-Care\\CovidCare\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sunil Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8663,7 +8659,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
