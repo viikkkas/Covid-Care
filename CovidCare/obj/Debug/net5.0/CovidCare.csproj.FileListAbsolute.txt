@@ -488,3 +488,4 @@ D:\Documents\VS studio repo\CovidCarePortal\Covid-Care\CovidCare\obj\Debug\net5.
 D:\Documents\VS studio repo\CovidCarePortal\Covid-Care\CovidCare\obj\Debug\net5.0\ref\CovidCare.dll
 D:\Documents\VS studio repo\CovidCarePortal\Covid-Care\CovidCare\obj\Debug\net5.0\CovidCare.pdb
 D:\Documents\VS studio repo\CovidCarePortal\Covid-Care\CovidCare\obj\Debug\net5.0\CovidCare.genruntimeconfig.cache
+D:\Documents\VS studio repo\CovidCarePortal\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\FAQ.cshtml.g.cs
