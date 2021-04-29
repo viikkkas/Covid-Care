@@ -25,6 +25,7 @@ namespace CovidCare
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ContactDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Myconnection")));
+            services.AddDbContext<RegistrationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("RegConnection")));
             services.AddControllersWithViews();
         }
 
@@ -53,4 +54,10 @@ namespace CovidCare
             });
         }
     }
+}
+
+public class RegistrationContext: DbContext
+{
+    public RegistrationContext(DbContextOptions<RegistrationContext> options) : base(options) { }
+    public DbSet<Registration> Registrations { get; set; }
 }
