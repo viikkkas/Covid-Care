@@ -12,6 +12,9 @@ namespace CovidCare.Models
     {
         
         [Key]
+        public int Id { get; set; }
+
+
         [Required(ErrorMessage = "Please Enter FirstName..")]
         [Display(Name = "FirstName")]
         public string FirstName { get; set; }
