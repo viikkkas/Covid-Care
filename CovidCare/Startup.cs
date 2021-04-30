@@ -25,7 +25,7 @@ namespace CovidCare
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ContactDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Myconnection")));
-            services.AddDbContext<RegistrationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("RegConnection")));
+            services.AddDbContext<RegistrationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MyConnection")));
             services.AddControllersWithViews();
         }
 
