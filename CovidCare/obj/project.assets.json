@@ -7435,19 +7435,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vikas\\.nuget\\packages\\": {}
+    "C:\\Users\\mitta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\VS studio repo\\CovidCarePortal\\Covid-Care\\CovidCare\\CovidCare.csproj",
+      "projectUniqueName": "D:\\It's ME\\JOB(Cognizant)\\Project\\CovidCare\\CovidCare.csproj",
       "projectName": "CovidCare",
-      "projectPath": "D:\\Documents\\VS studio repo\\CovidCarePortal\\Covid-Care\\CovidCare\\CovidCare.csproj",
-      "packagesPath": "C:\\Users\\Vikas\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\VS studio repo\\CovidCarePortal\\Covid-Care\\CovidCare\\obj\\",
+      "projectPath": "D:\\It's ME\\JOB(Cognizant)\\Project\\CovidCare\\CovidCare.csproj",
+      "packagesPath": "C:\\Users\\mitta\\.nuget\\packages\\",
+      "outputPath": "D:\\It's ME\\JOB(Cognizant)\\Project\\CovidCare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mitta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
