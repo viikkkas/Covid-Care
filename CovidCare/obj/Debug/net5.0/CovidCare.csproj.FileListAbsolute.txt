@@ -693,3 +693,4 @@ D:\It's ME\JOB(Cognizant)\Project\CovidCare\obj\Debug\net5.0\CovidCare.dll
 D:\It's ME\JOB(Cognizant)\Project\CovidCare\obj\Debug\net5.0\ref\CovidCare.dll
 D:\It's ME\JOB(Cognizant)\Project\CovidCare\obj\Debug\net5.0\CovidCare.pdb
 D:\It's ME\JOB(Cognizant)\Project\CovidCare\obj\Debug\net5.0\CovidCare.genruntimeconfig.cache
+D:\It's ME\JOB(Cognizant)\Project\CovidCare\obj\Debug\net5.0\Razor\Views\Quarantine\Quarantine.cshtml.g.cs
