@@ -23,7 +23,7 @@ namespace CovidCare.Controllers
             return View();
         }
 
-        public IActionResult Registration()
+        public IActionResult About()
         {
             return View();
         }

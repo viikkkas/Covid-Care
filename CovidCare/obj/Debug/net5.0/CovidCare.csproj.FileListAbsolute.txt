@@ -673,7 +673,6 @@ F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\Advisory.cshtml.g.
 F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\FAQ.cshtml.g.cs
 F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\Registration.cshtml.g.cs
 F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\Symptom.cshtml.g.cs
 F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Registrations\Create.cshtml.g.cs
 F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Registrations\Delete.cshtml.g.cs
@@ -871,3 +870,5 @@ D:\It's ME\JOB(Cognizant)\Project2\CovidCare\obj\Debug\net5.0\ref\CovidCare.dll
 D:\It's ME\JOB(Cognizant)\Project2\CovidCare\obj\Debug\net5.0\CovidCare.pdb
 D:\It's ME\JOB(Cognizant)\Project2\CovidCare\obj\Debug\net5.0\CovidCare.genruntimeconfig.cache
 D:\It's ME\JOB(Cognizant)\Project2\CovidCare\obj\Debug\net5.0\Razor\Views\Quarantine\Quarantine.cshtml.g.cs
+F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Quarantine\Quarantine.cshtml.g.cs
+F:\CTS\Covid-Care\CovidCare\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs

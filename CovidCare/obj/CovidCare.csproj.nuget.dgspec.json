@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\It's ME\\JOB(Cognizant)\\Project2\\CovidCare\\CovidCare.csproj": {}
+    "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj": {}
   },
   "projects": {
-    "D:\\It's ME\\JOB(Cognizant)\\Project2\\CovidCare\\CovidCare.csproj": {
+    "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\It's ME\\JOB(Cognizant)\\Project2\\CovidCare\\CovidCare.csproj",
+        "projectUniqueName": "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj",
         "projectName": "CovidCare",
-        "projectPath": "D:\\It's ME\\JOB(Cognizant)\\Project2\\CovidCare\\CovidCare.csproj",
-        "packagesPath": "C:\\Users\\mitta\\.nuget\\packages\\",
-        "outputPath": "D:\\It's ME\\JOB(Cognizant)\\Project2\\CovidCare\\obj\\",
+        "projectPath": "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj",
+        "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
+        "outputPath": "F:\\CTS\\Covid-Care\\CovidCare\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mitta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
