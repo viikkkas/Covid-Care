@@ -13,7 +13,7 @@ namespace CovidCare.Models
         [Key]
         public int Id { get; set; }
 
-        [Column(TypeName = "nvarchar(250)")]
+        [Column(TypeName = "nvarchar(50)")]
         [Required(ErrorMessage = "This field is required.")]
         [DisplayName("Full Name")]
         public string Name { get; set; }

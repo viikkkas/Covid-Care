@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj": {}
+    "F:\\Cognizant C Learn\\Mini project\\Vikas_Github_Project\\Covid-Care\\CovidCare\\CovidCare.csproj": {}
   },
   "projects": {
-    "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj": {
+    "F:\\Cognizant C Learn\\Mini project\\Vikas_Github_Project\\Covid-Care\\CovidCare\\CovidCare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj",
+        "projectUniqueName": "F:\\Cognizant C Learn\\Mini project\\Vikas_Github_Project\\Covid-Care\\CovidCare\\CovidCare.csproj",
         "projectName": "CovidCare",
-        "projectPath": "F:\\CTS\\Covid-Care\\CovidCare\\CovidCare.csproj",
-        "packagesPath": "C:\\Users\\saikr\\.nuget\\packages\\",
-        "outputPath": "F:\\CTS\\Covid-Care\\CovidCare\\obj\\",
+        "projectPath": "F:\\Cognizant C Learn\\Mini project\\Vikas_Github_Project\\Covid-Care\\CovidCare\\CovidCare.csproj",
+        "packagesPath": "C:\\Users\\Sunil Kumar\\.nuget\\packages\\",
+        "outputPath": "F:\\Cognizant C Learn\\Mini project\\Vikas_Github_Project\\Covid-Care\\CovidCare\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\saikr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sunil Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
